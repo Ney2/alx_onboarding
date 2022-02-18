@@ -1,0 +1,12 @@
+Pseudo code for a program that reads in three numbers and writes them all in sorted order
+1.	Ask the user to enter three different numbers: X,Y,Z
+2.	Array = [X,Y,Z]
+3.	Assume Highest  = X
+4.	For i =0 , i<3,i++
+{
+If (Highest < Array [i])
+    Highest = Array [i]
+}
+
+5.	Display the value stored in Highest
+

@@ -1,0 +1,13 @@
+Pseudo code to Calculate a running sum
+1.	Sum =0 
+2.	Ask the user to enter a number, X
+3.	If(X>0)
+    {
+4.	 Sum = Sum + X
+     }
+5.	Else
+ {
+   Print Sum
+  }
+6.	End
+

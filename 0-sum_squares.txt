@@ -1,0 +1,14 @@
+Pseudo code sum of squares of given input of numbers
+1.	This program will display calculate the sum of the square of given input of numbers 
+2.	Read the number of times, N
+3.	Set Counter =0, Sum=0
+4.	For counter =0, Counter < N, Counter ++  
+{ 
+     Read Number
+     Square = Number *Number
+     Sum = Sum + Square
+     Counter = Counter +1
+}
+5.	Display Sum
+6.	End
+     
